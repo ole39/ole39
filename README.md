@@ -19,6 +19,12 @@ Ces notes sont collés au coté gauche de la page pour maximiser l'espace et dim
 
 ![Capture d’écran_25-2-2025_111938_](https://github.com/ole39/Site-Tissage/blob/45a128e6c539266f41a4360b04cf3b4c38360140/Capture%20d%E2%80%99%C3%A9cran_25-2-2025_111938_.jpeg)
 
+Le plan de la première partie se déroule dans la lignée. Tout les titres ne sont pas numérotés car ils sont relatifs à une organisation variable. 
+
+![plan+biblio_siteweb](https://github.com/user-attachments/assets/67474782-ab52-4785-89cb-36ada828d3b2)
+
+
+Enfin dessous
 
 
 <!---
