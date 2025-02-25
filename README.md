@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ole39
 - 👀 I’m interested in weaving 
-- 🌱 I’m currently learning greec and latin
+- 🌱 I’m currently learning greek and latin
 - ⚡ Fun fact: Je fais du tricot
-- Mon projet :
+# Mon projet :
 Le travail réalisé est une page web comportant l'introduction de mon mémoire ainsi que le plan sommaire de ma première partie. L'image qui ouvre mon site est un peu grande certes mais cela permet de mieux voir les motifs avec un métier à tisser au centre et une fileuse sur le côté gauche. Cette représentation graphique directement sous le titre nous informe déja sur le contexte historique, c'est à dire l'Antiquité grecque, et sur le thème étudié.
 
 ![pic04](https://github.com/ole39/ole39/blob/acf5862c09c86e000bd88e5b6509101f14e1b983/images/pic04.jpg)
@@ -10,7 +10,15 @@ Le travail réalisé est une page web comportant l'introduction de mon mémoire 
 La teinte orangée du fond de mon site web est un dégradé qui va du orange au noir. Ces couleurs sont sensées rappeller celles des poteries grecques sur lesquelles ont retrouve des représentations graphiques du tissage.
 
 L'introduction de mon mémoire est ensuite recopié en gardant une forme avec des paragraphes, des notes, une citation longue, ainsi que les italiques qui concernent les titres d'ouvrages. Ces mises en formes font parti du HTML et reprises dans le main CSS pour l'habillage.
-Je regrette un peu de n'avoir pas su faire des renvois interractifs entre l'indice des notes et les notes elles-mêmes. La lecture en aurait été fluidifiée. J'aurais aimé qu'on puisse cliquer sur la note qui nous renvoie à la fin de l'Introduction, puis que l'on puisse recliquer sur la note dans les Notes
+
+Je regrette un peu de n'avoir pas su faire des renvois interractifs entre l'indice des notes et les notes elles-mêmes. La lecture en aurait été fluidifiée. J'aurais aimé qu'on puisse cliquer sur la note dans l'**Introduction** qui nous renvoie dans les **Notes**, puis que l'on puisse recliquer sur la note dans les **Notes** afin de revenir au texte de l'**Introduction**.
+Donc je peux encore m'améliorer !
+
+La position des **Notes** à la fin de l'**Introduction** est du au format de la page web qui se déroule sans césure. On ne peut donc pas faire des notes de bas de page un peu plus facile d'accès. 
+Ces notes sont collés au coté gauche de la page pour maximiser l'espace et diminuer leur encombrement sur la page web. Il en résulte peut-être un manque de lisibilité pour les notes à 2 chiffres, mais il est minime.
+
+![Capture d’écran_25-2-2025_111938_](https://github.com/user-attachments/assets/3d473ed3-fe75-4475-bfee-2071ce60a139)
+
 
 
 <!---
