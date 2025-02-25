@@ -21,7 +21,7 @@ Ces notes sont collés au coté gauche de la page pour maximiser l'espace et dim
 
 Le plan de la première partie se déroule dans la lignée. Tout les titres ne sont pas numérotés car ils sont relatifs à une organisation variable. 
 
-![plan+biblio_siteweb](https://github.com/user-attachments/assets/67474782-ab52-4785-89cb-36ada828d3b2)
+![plan+biblio_siteweb](https://github.com/ole39/Site-Tissage/blob/36a70f9f4e916da225b04e687d0ff2cd5a42636f/plan%2Bbiblio_siteweb.jpeg)
 
 
 Enfin dessous
