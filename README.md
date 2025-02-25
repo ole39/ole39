@@ -17,7 +17,7 @@ Donc je peux encore m'améliorer !
 La position des **Notes** à la fin de l'**Introduction** est du au format de la page web qui se déroule sans césure. On ne peut donc pas faire des notes de bas de page un peu plus facile d'accès. 
 Ces notes sont collés au coté gauche de la page pour maximiser l'espace et diminuer leur encombrement sur la page web. Il en résulte peut-être un manque de lisibilité pour les notes à 2 chiffres, mais il est minime.
 
-![Capture d’écran_25-2-2025_111938_](https://github.com/user-attachments/assets/3d473ed3-fe75-4475-bfee-2071ce60a139)
+![Capture d’écran_25-2-2025_111938_](https://github.com/ole39/Site-Tissage/blob/45a128e6c539266f41a4360b04cf3b4c38360140/Capture%20d%E2%80%99%C3%A9cran_25-2-2025_111938_.jpeg)
 
 
 
