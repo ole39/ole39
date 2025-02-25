@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ole39
-- 👀 I’m interested in tissage 
+- 👀 I’m interested in weaving 
 - 🌱 I’m currently learning greec and latin
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I do tricot
 
 <!---
 ole39/ole39 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
