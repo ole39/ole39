@@ -24,7 +24,7 @@ Le plan de la première partie se déroule dans la lignée. Tout les titres ne s
 ![plan+biblio_siteweb](https://github.com/ole39/Site-Tissage/blob/36a70f9f4e916da225b04e687d0ff2cd5a42636f/plan%2Bbiblio_siteweb.jpeg)
 
 
-Enfin dessous
+Enfin dessous il reste de l'espace et une organisation pour intégrer la bibliographie, ce qui prend du temps. Juste a coté on retrouve mes coordonées sommaires. 
 
 
 <!---
