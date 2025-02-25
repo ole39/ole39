@@ -9,6 +9,8 @@ Le travail réalisé est une page web comportant l'introduction de mon mémoire 
 ![Capture d’écran_25-2-2025_103445_](https://github.com/ole39/Site-Tissage/blob/47a8d29889fd1acaec8e75dcfa178f12d38ad10d/Capture%20d%E2%80%99%C3%A9cran_25-2-2025_103445_.jpeg)
 La teinte orangée du fond de mon site web est un dégradé qui va du orange au noir. Ces couleurs sont sensées rappeller celles des poteries grecques sur lesquelles ont retrouve des représentations graphiques du tissage.
 
+L'introduction de mon mémoire est ensuite recopié en gardant une forme avec des paragraphes, des notes, une citation longue, ainsi que les italiques qui concernent les titres d'ouvrages. Ces mises en formes font parti du HTML et reprises dans le main CSS pour l'habillage.
+Je regrette un peu de n'avoir pas su faire des renvois interractifs entre l'indice des notes et les notes elles-mêmes. La lecture en aurait été fluidifiée. J'aurais aimé qu'on puisse cliquer sur la note qui nous renvoie à la fin de l'Introduction, puis que l'on puisse recliquer sur la note dans les Notes
 
 
 <!---
