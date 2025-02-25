@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ole39
-- 👀 I’m interested in ...
+- 👀 I’m interested in tissage 
 - 🌱 I’m currently learning greec and latin
 - ⚡ Fun fact: ...
 
